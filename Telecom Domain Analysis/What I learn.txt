@@ -1,0 +1,5 @@
+1. Organize Power BI DAX Measures in Folders
+2. AVERAGEX how to use it to calculate montly average revenue
+3. How to calculate change percentage
+4. learned how to work with sumx,selected value function
+5. how to edit interactions
